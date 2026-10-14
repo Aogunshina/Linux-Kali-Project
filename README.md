@@ -126,8 +126,6 @@ I believe that combining real-world professional experience with continuous tech
 
 I welcome opportunities to learn from other professionals, collaborate on beginner-friendly projects, and connect with people working in IT support, networking, Linux, cybersecurity, and GRC.
 
-Email: oyogunshina@gmail.com
-
 Location: Kettering, Northamptonshire, United Kingdom
 
 GitHub: Explore my repositories to follow my learning journey.
